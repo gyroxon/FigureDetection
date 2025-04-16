@@ -14,5 +14,11 @@
 
 ![Дуга почти окружность](https://github.com/gyroxon/FigureDetection/blob/main/Screenshot_2025-04-15_17-03-22.png)
 
+![Окружность](https://github.com/gyroxon/FigureDetection/blob/main/Screenshot_2025-04-15_17-03-59.png)
+
+![Ромб](https://github.com/gyroxon/FigureDetection/blob/main/Screenshot_2025-04-15_13-05-38.png)
+
+
+
 Скачано давно из просторов Интернета.
  Откуда - уже не найти.
