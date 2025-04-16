@@ -11,6 +11,7 @@
 Текстового файла с описанием тоже нет.
 
 Смотрите скриншоты:
+
 ![Прямоугольный треугольник](https://github.com/gyroxon/FigureDetection/blob/main/Screenshot_2025-04-15_13-17-19.png)
 
 ![Дуга почти окружность](https://github.com/gyroxon/FigureDetection/blob/main/Screenshot_2025-04-15_17-03-22.png)
